@@ -5,13 +5,12 @@ The purpose of uploading this beginner's level code is to record my progress alo
 
 # Concept used in this project:
 
-- Dictionary(key,value), list(append)
+- Dictionary(key, value), list(append), Nested Dictionary
 - Random
 - f string
 - Boolean
 - while loop 
-- conditional statement
-- function with input
-- function with output
-- user input
+- Conditional statement
+- Function with input
+- Function with output
 
